@@ -1,2 +1,2 @@
-import "./read-data"
-import "./request-data"
+import "./read-data";
+import "./request-data";

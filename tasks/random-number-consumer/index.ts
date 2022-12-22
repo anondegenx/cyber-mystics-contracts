@@ -1,2 +1,2 @@
-import "./read-random-number"
-import "./request-random-number"
+import "./read-random-number";
+import "./request-random-number";
